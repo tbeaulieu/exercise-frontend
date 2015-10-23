@@ -1,5 +1,4 @@
 # VICE Frontend Code Test
-==============================
 
 ## Overview
 Below is a HTML/CSS/JS exercise that involves building out a component of a page which involves switching between various shows.
@@ -19,6 +18,6 @@ In index.html, rebuild the designs in the designs folder in Semantic HTML, CSS, 
 - The url updates with the currently selected show. (http://{{page_url}}?id=2, if second show is selected)
 - A url with http://{{page_url}}?id=2 should have the second show selected on page reload.
 - When clicking between shows, hitting “Back” and “Forward” on the browser will also update the url, cover image, title and episode count according to the show id.
-- The minimum width of the screen is 320px (640 @2x). The horizontal breakpoint is at 980px (1960px @2x). Built with a mobile first approach.
+- The minimum width of the screen is 320px. The horizontal breakpoint is at 980px. Built with a mobile first approach.
 
 Pay attention details and the layout of the page. Keep it DRY.
