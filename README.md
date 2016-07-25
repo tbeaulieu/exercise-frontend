@@ -1,11 +1,11 @@
 # VICE Front-end Coding Exercise
 
-Below is a HTML/CSS/JS exercise that involves building out a webpage which involves switching between various shows. Have fun with this, show us what you can do, and keep the code DRY.
+Below is a HTML/CSS/JS exercise that involves building out a web component, or single page app, to navigate through various VICE shows.
 
 - Use HTML5 semantic markup elements.
-- Use any JS framework you'd like or vanilla JavaScript.
 - Write your CSS using a preprocessor (Sass, LESS or Stylus).
-- Bonus: use a task manager such as Webpack, Gulp, Grunt, etc. to compile static assets.
+- Use any JS framework you'd like or vanilla JavaScript.
+- Bonus: use a module bundler or task manager such as Webpack, Gulp or Grunt to compile static assets.
 
 ## Exercise
 In index.html, rebuild the mocks in the designs folder in semantic HTML, CSS and JS. The designs represent layouts in a smaller
