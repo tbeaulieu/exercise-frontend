@@ -4,7 +4,7 @@ Below is a HTML/CSS/JS exercise that involves building out a web component, or s
 
 - Use HTML5 semantic markup elements.
 - Write your CSS using a preprocessor (Sass).
-- Use React as your JavaScript library.
+- Use React as your JavaScript library and try to avoid using Create React App.
 - Add one unit test using Jest or Mocha/Chai.
 - Bonus: Use a module bundler or task manager such as Webpack to compile static assets. Along with this, include a linter for your code (ESLint, Prettier, ect.).
 
