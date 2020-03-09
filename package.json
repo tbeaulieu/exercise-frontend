@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/VICEMedia/exercise-frontend",
-  "author": "Matthew Panton <matthew.panton@vice.com>",
+  "author": "VICE Engineering <engineering@vice.com>",
   "license": "MIT",
   "scripts": {
     "start-api": "json-server --watch shows.json"
