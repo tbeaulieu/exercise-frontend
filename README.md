@@ -3,9 +3,10 @@
 Below is a HTML/CSS/JS exercise that involves building out a web component, or single page app, to navigate through various VICE shows.
 
 - Use HTML5 semantic markup elements.
-- Write your CSS using a preprocessor (Sass, LESS or Stylus).
-- Use React or Vue.js as your JavaScript library.
-- Bonus: Use a module bundler or task manager such as Webpack, Gulp or Grunt to compile static assets. Along with this, include a linter for your code (ESLint, Prettier, ect.).
+- Write your CSS using a preprocessor (Sass).
+- Use React as your JavaScript library.
+- Add one unit test using Jest or Mocha/Chai.
+- Bonus: Use a module bundler or task manager such as Webpack to compile static assets. Along with this, include a linter for your code (ESLint, Prettier, ect.).
 
 ## Exercise
 In index.html, rebuild the mocks in the designs folder in semantic HTML, CSS and JS. The designs represent layouts in a smaller screen and a larger screen. It is not 2 pages. Feel free to diverge from the designs and apply your own creativity. The goal is to build a simple UI that allows users to navigate between various shows while displaying the corresponding meta data for each.
