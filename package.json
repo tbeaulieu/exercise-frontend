@@ -10,5 +10,9 @@
   },
   "dependencies": {
     "json-server": "0.16.1"
+  },
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.6"
   }
 }
